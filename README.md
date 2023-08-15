@@ -5,7 +5,7 @@ Used across multiple pipelines.
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Benefits of Jenkins Shared Library</title>
+
 </head>
 <body>
   <h1>Benefits of Jenkins Shared Library</h1>
